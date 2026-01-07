@@ -1,3 +1,15 @@
+# ICE — Intervento, Contenimento, Escalation
+
+**STATO: SOLO SPEC (SPEC-ONLY). Nessuna reference implementation pubblicata al momento.**
+
+Questo repository (come da home GitHub) contiene:
+- Specifica: `ICE_SPEC.md`
+- Origine / attribuzione: `ORIGIN.md`
+
+Se stai cercando il codice reference, **non è ancora incluso**.  
+Lo stato del progetto è descritto in: `STATUS.md`  
+La roadmap è in: `ROADMAP.md`
+
 # ICE — Intervention, Containment, Escalation
 
 ICE is a deterministic control plane for governing AI systems in high-stakes or irreversible contexts.
